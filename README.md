@@ -66,4 +66,4 @@ The model successfully generates insightful explanations of Taylor Swift's lyric
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
