@@ -62,8 +62,5 @@ The model successfully generates insightful explanations of Taylor Swift's lyric
 - **Model Tuning:** Further optimize the fine-tuning process by experimenting with different hyperparameters to improve explanation quality.  
 - **Sentiment and Thematic Analysis:** Integrate a sentiment analysis component to generate not just explanations but also the emotional context for each lyric.  
 
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
