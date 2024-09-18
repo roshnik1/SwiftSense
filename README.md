@@ -41,7 +41,7 @@ The fine-tuning was performed on the Davinci-002 model using OpenAI's API. The p
 - Data Upload: The preprocessed JSONL data was uploaded to OpenAI’s servers using the OpenAI CLI.  
 - Fine-Tuning Execution: The fine-tuning process was triggered using the OpenAI Python library, specifying the dataset and hyperparameters such as the number of epochs, batch size, and learning rate.
 
->The *fine_tuning.py* script also automates this process.
+>The *fine_tune_lyrics.ipynb* script also automates this process.
 
 ## Results and Outputs
 The model successfully generates insightful explanations of Taylor Swift's lyrics. Below are a few examples of the generated outputs:  
